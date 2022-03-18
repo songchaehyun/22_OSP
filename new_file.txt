@@ -2,5 +2,9 @@ change
 
 remote->local change
 
+
+b1_1
+b2_2
+
 branch2 first update
 branch2 second update
