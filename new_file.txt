@@ -1,3 +1,6 @@
 change 
 
 remote->local change
+
+branch2 first update
+branch2 second update
