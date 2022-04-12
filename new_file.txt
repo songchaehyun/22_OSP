@@ -2,15 +2,8 @@ change
 
 remote->local change
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 b1_1
 b2_2
-=======
+
 branch2 first update
 branch2 second update
->>>>>>> branch_2
-=======
-branch2 first update
-branch2 second update
->>>>>>> 170ef31801d8afbaeb6cd290d90cc11ee188841f
